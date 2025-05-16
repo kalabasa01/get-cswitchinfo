@@ -12,7 +12,7 @@ Simple Powershell Script that will help to get cisco switch information such as:
 ## Language Used:
 - Powershell
 
-## Required Application:
+## Requirements:
 - Powershell
 - Powershell ISE
 - Command Prompt
